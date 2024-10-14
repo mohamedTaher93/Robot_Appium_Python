@@ -1,0 +1,9 @@
+{
+  "appium:deviceName": "AndroidTestDevice",
+  "appium:udid": "emulator-5554",
+  "appium:platformName": "Android",
+  "appium:platformVersion": "15",
+  "appium:appPackage": "com.hungerstation.android.web",
+  "appium:appActivity": "com.hungerstation.android.web.hungeractivities.MainActivity",
+  "appium:automationName": "uiAutomator2"
+}
